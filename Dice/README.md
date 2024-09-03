@@ -1,4 +1,4 @@
-testDice.py sample output: <br>
+### testDice.py Sample Output: <br>
 
 `5` <br>
  `2` <br>
